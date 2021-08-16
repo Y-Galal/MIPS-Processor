@@ -1,0 +1,28 @@
+Command line:
+   InstructionMemTf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54094
+
+Mon Aug 09 21:31:43 2021
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 863.523 Meg
+
+ Total Signals          : 16
+ Total Nets             : 45
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 10
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 1048717
+
+ Total Simulation Time: 0.28125 sec
+
+ Current Memory Usage: 1178.62 Meg
+
+Mon Aug 09 21:32:13 2021
+

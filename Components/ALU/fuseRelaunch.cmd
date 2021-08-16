@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Working/Digital Electronics/Mips-Pipelined/Components/ALU/ALU_tf_isim_beh.exe" -prj "E:/Working/Digital Electronics/Mips-Pipelined/Components/ALU/ALU_tf_beh.prj" "work.ALU_tf" "work.glbl" 

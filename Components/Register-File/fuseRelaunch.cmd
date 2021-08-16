@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Working/Digital Electronics/Mips-Pipelined/Mips-Pipelined-Project/Components/Register-File/Regfiletb_isim_beh.exe" -prj "E:/Working/Digital Electronics/Mips-Pipelined/Mips-Pipelined-Project/Components/Register-File/Regfiletb_beh.prj" "work.Regfiletb" "work.glbl" 
