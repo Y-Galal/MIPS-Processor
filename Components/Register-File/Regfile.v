@@ -27,7 +27,7 @@ module Regfile( input clock,
 					 output [15:0]RRead1, // data in address 1
 					 output [15:0]RRead2); // data in address 2
 	reg [15:0]MemBlock[0:7];
-	parameter i;
+	integer i;
 	initial
 	begin
 		for(i=0;i<8;i=i+1)
