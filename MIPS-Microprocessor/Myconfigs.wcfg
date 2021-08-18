@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/Working/Digital Electronics/Mips-Processor/Mips-Processor/MIPS-Microprocessor/Mips_tf_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="Mips_tf" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/Mips_tf/OutPort" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">OutPort[15:0]</obj_property>
+      <obj_property name="ObjectShortName">OutPort[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/InPort" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">InPort[15:0]</obj_property>
+      <obj_property name="ObjectShortName">InPort[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/ALUA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUA[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/ALUB" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUB[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUB[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/ALUR_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUR_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUR_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/Func" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Func[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Func[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/ZF" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ZF</obj_property>
+      <obj_property name="ObjectShortName">ZF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/ALU1/ALUR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUR[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/RReg1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RReg1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RReg1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/RReg2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RReg2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RReg2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/WR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">WR[2:0]</obj_property>
+      <obj_property name="ObjectShortName">WR[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/WE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">WE</obj_property>
+      <obj_property name="ObjectShortName">WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/WD" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">WD[15:0]</obj_property>
+      <obj_property name="ObjectShortName">WD[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/RRead1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RRead1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RRead1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/RRead2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RRead2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RRead2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/MemBlock" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MemBlock[0:7,15:0]</obj_property>
+      <obj_property name="ObjectShortName">MemBlock[0:7,15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/Regfile1/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/Address" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/DataToStore" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataToStore[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DataToStore[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/RW" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RW</obj_property>
+      <obj_property name="ObjectShortName">RW</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/Content" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Content[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Content[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/DataMemory1/DataOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataOut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DataOut[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Mips_tf/uut/CU1/OUTLD" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">OUTLD</obj_property>
+      <obj_property name="ObjectShortName">OUTLD</obj_property>
+   </wvobject>
+</wave_config>
